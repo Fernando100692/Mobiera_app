@@ -1,0 +1,12 @@
+{
+  "auth": {
+    "email": "luisfer@gmail.com",
+    "password": "123456"
+  },
+  "profile": {
+    "img": "file:///data/user/0/com.mobiera_app/cache/Camera/bda81c04-f852-415f-afa4-72f45d1fe20e.jpg",
+    "email": "luisfer@gmail.com",
+    "firstName": "Luis",
+    "lastName": "Ruano"
+  }
+}
